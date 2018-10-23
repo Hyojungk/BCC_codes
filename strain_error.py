@@ -38,8 +38,6 @@ def min_image_t(tcoord_i,tcoord_j,l):
     ----------
     tcoord_i : t-coord of point i
     tcoord_j : t-coord of point j
-    t_mag: periodic length (slab thickness) (in units of a0)
-    a0 : lattice constant (in Angstroms)
 
     Returns
     -------
